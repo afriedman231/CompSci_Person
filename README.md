@@ -1,1 +1,0 @@
-# CompSci_Person
